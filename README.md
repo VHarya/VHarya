@@ -5,7 +5,7 @@ Skill:
 - Game Development
 
 Email: vincentiusharya@gmail.com<br>
-Itch page: centro.itch.io
+Itch page: <a href="centro.itch.io">centro.itch.io<a>
 <!---
 VincentiusHarya/VincentiusHarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
