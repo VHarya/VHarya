@@ -1,6 +1,5 @@
-Hi! My name is Vincentius Harya.
-I'm a Software Engineer.
-I graduated from SMKN 4 MALANG and is now studying for my bachelor in STIKI University.
+Hi! My name is Vincentius Harya. I'm a Software Engineer.<br>
+I graduated from SMKN 4 MALANG and is now studying for my bachelor in STIKI University.<br>
 I have 1+ year of experience as a Backend Developer and Android Developer.
 
 Skill:
